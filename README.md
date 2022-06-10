@@ -1,5 +1,5 @@
 # Desafio TDD .NET
-Neste repositório encontra-se a resolução do desafio de TDD do programa Starter.
+Neste repositório encontra-se aplicação pratica de TDD e testes unitários.
 
 ****
 ## Funcionalidades
